@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活 on 🤺Watermelon🥊</title>
+    <link>https://hanyu.cool/lifeblog/categories/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on 🤺Watermelon🥊</description>
+    <image>
+      <title>🤺Watermelon🥊</title>
+      <url>https://hanyu.cool/lifeblog/papermod-cover.png</url>
+      <link>https://hanyu.cool/lifeblog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Oct 2022 00:19:49 +0800</lastBuildDate><atom:link href="https://hanyu.cool/lifeblog/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>准备记录生活啦</title>
+      <link>https://hanyu.cool/lifeblog/posts/1/</link>
+      <pubDate>Mon, 31 Oct 2022 00:19:49 +0800</pubDate>
+      
+      <guid>https://hanyu.cool/lifeblog/posts/1/</guid>
+      <description>🌈🌈🌈这里将记录我的生活，美滋滋！</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+
+/*@font-face {
+  font-family:roboto;
+  src:url(../../font/Roboto-Regular.woff2)format("woff2");
+  font-weight:400;
+  font-display:swap
+}
+@font-face {
+  font-family:roboto;
+  src:url(../../font/Roboto-Italic.woff2)format("woff2");
+  font-weight:400;
+  font-style:italic;
+  font-display:swap
+}
+@font-face {
+  font-family:roboto;
+  src:url(../../font/Roboto-Bold.woff2)format("woff2");
+  font-weight:700;
+  font-display:swap
+}
+@font-face {
+  font-family:roboto;
+  src:url(../../font/Roboto-BoldItalic.woff2)format("woff2");
+  font-weight:700;
+  font-style:italic;
+  font-display:swap
+}
+
+body {
+  font-family:-apple-system,BlinkMacSystemFont,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+  font-size:13px!important;
+  line-height:1.6;
+  word-break:break-word;
+  background:var(--theme)
+}
+    
+*/
